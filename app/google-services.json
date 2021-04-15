@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "188002818691",
+    "project_id": "notesappusingfirestore",
+    "storage_bucket": "notesappusingfirestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188002818691:android:f1da5ac449f0fc10f959b6",
+        "android_client_info": {
+          "package_name": "in.example.notesappusingfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188002818691-2inefo512m7kkakght284272tfhae39j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPynA9zT00XMhIWJ2p-K3pyhapd8lHQzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188002818691-2inefo512m7kkakght284272tfhae39j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
